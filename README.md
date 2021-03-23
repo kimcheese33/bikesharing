@@ -8,7 +8,7 @@ The purpose of this project is to take NYC Citibike data and build visualization
 
 ## Results
 
-### Viz #1: Gender Breakdown
+### Viz #1: Gender Breakdown 
 
 <img src="https://github.com/kimcheese33/bikesharing/blob/main/images/gender_breakdown.png"/>
 
