@@ -33,7 +33,7 @@ This line chart is showing number of rides by trip duration broken down by hours
 This line chart is the same as the previous chart except it is being broken down by gender. We can see that there are more male users than female users no matter how long the trip is.
 
 ### Viz #5: Trips by Weekday per Hour
-
+ 
 <img src="https://github.com/kimcheese33/bikesharing/blob/main/images/trips_weekday_hour.png"/>
 
 This heat map shows the number of bikes per weekday and hour. More bikes tend to be used Mondays, Tuesdays and Thursdays around 5-6pm.
