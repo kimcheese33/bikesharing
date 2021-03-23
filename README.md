@@ -26,7 +26,7 @@ This horizontal bar chart is showing the number of rides for the month of August
 
 This line chart is showing number of rides by trip duration broken down by hours and minutes. We can see that trip durations usually last 3-7 hours.
 
-### Viz #4: Checkout Times by Gender
+### Viz #4: Checkout Times by Gender 
 
 <img src="https://github.com/kimcheese33/bikesharing/blob/main/images/checkout_times_gender.png"/>
  
