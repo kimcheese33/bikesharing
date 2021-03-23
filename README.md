@@ -29,7 +29,7 @@ This line chart is showing number of rides by trip duration broken down by hours
 ### Viz #4: Checkout Times by Gender
 
 <img src="https://github.com/kimcheese33/bikesharing/blob/main/images/checkout_times_gender.png"/>
-
+ 
 This line chart is the same as the previous chart except it is being broken down by gender. We can see that there are more male users than female users no matter how long the trip is.
 
 ### Viz #5: Trips by Weekday per Hour
